@@ -1,3 +1,37 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# Java & Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+
+
+
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+*.env
+
+# Backup files
+*~
+*.bak
+*.swp
+
+
+
+# Spring Boot specific
+.spring-boot-devtools.properties
