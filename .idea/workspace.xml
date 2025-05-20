@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27388372-ac21-4990-8b58-19e8b3c1a6e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +53,7 @@
   <component name="RunManager">
     <configuration name="ReaserchAssistantApplication" type="Application" factoryName="Application">
       <envs>
-        <env name="GEMINI_KEY" value="AIzaSyAC2qwNC6-uSf5UJRDu6PvCStze4ahMCIU" />
+        <env name="GEMINI_KEY" value="" />
       </envs>
       <option name="MAIN_CLASS_NAME" value="com.research_assistant.ReaserchAssistantApplication" />
       <module name="reaserch-assistant" />
