@@ -53,7 +53,7 @@
   <component name="RunManager">
     <configuration name="ReaserchAssistantApplication" type="Application" factoryName="Application">
       <envs>
-        <env name="GEMINI_KEY" value="AIzaSyAC2qwNC6-uSf5UJRDu6PvCStze4ahMCIU" />
+        <env name="GEMINI_KEY" value="own key" />
       </envs>
       <option name="MAIN_CLASS_NAME" value="com.research_assistant.ReaserchAssistantApplication" />
       <module name="reaserch-assistant" />
